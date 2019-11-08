@@ -1,0 +1,15 @@
+{
+    "name": "wasala/myfirstpackage",
+    "description": "test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "athula",
+            "email": "athulaw@dtech.lk"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^4.3"
+    }
+}
